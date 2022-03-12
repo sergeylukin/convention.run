@@ -13,7 +13,7 @@ const headingStyles = {
   marginBottom: 64,
 };
 const linkStyle = {
-  color: "#ff86da",
+  color: "#3180ca",
   fontWeight: "bold",
   fontSize: 24,
   verticalAlign: "5%",
